@@ -1,4 +1,4 @@
-def main ():
+
     details = login()
     dice = roll()
     return
